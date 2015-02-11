@@ -1,3 +1,4 @@
+require 'scraperwiki'
 # scrape amazon.com for a keyword
 require 'nokogiri'
 keywords = "big data"
